@@ -1,50 +1,126 @@
-# Welcome to your Expo app 👋
+# Abtidoon Data
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Main Screen
 
-## Get started
+![image1.png](READMEIMAGES/image1.png)
 
-1. Install dependencies
+# Hormuud
 
-   ```bash
-   npm install
-   ```
+![image2.png](READMEIMAGES/image2.png)
 
-2. Start the app
+# Hormuud: Anfac Plus
 
-   ```bash
-    npx expo start
-   ```
+![image3.png](READMEIMAGES/image3.png)
 
-In the output, you'll find options to open the app in a
+Account: *799* 31825163*lacagta#
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+# Hormuud: ADSL Plus
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+![image4.png](READMEIMAGES/image4.png)
 
-## Get a fresh project
+Account: *799* 31825163*lacagta#
 
-When you're ready, run:
+# Hormuud: Unlimited Data
 
-```bash
-npm run reset-project
-```
+![image5.png](READMEIMAGES/image5.png)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Account: *799* 31825163*lacagta#
 
-## Learn more
+# Hormuud: Ku Hadal
 
-To learn more about developing your project with Expo, look at the following resources:
+![image6.png](READMEIMAGES/image6.png)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Qaybta cad ana buttons-ka hoostooda kan kaligiis waxaa la raacinaa qoraalkan: **Fadlan nambarka u rabtid ku hadalka kasoo dir lacagta**
 
-## Join the community
+EVC: *712*612271122*lacagta#
 
-Join our community of developers creating universal apps.
+# SOMNET
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![image7.png](READMEIMAGES/image7.png)
+
+Somnet labada kala ah Unlimited iyo Qanciye bes ayuu rabaa
+
+# Somnet: Unlimited
+
+![image8.png](READMEIMAGES/image8.png)
+
+Account: *799* 31825163*lacagta#
+
+# Somnet: Qanciye
+
+![image9.png](READMEIMAGES/image9.png)
+
+Account: *799* 31825163*lacagta#
+
+# SOMTEL
+
+![image10.png](READMEIMAGES/image10.png)
+
+# Somtel: Unlimited
+
+![image8.png](READMEIMAGES/image8.png)
+
+EVC: *712*0613084090*Lacagta#
+
+# Somtel: Voice
+
+![image11.png](READMEIMAGES/image11.png)
+
+EVC: *712*0613084091*Lacagta#
+
+# Somte: NO EXPIRE
+
+![image12.png](READMEIMAGES/image12.png)
+
+- 712*613084091*lacagta#
+
+Lacagaha ku qoran oo lagu badalayo kuwaan
+
+**Homuud**
+
+1. Step1 Unlimed data & voice
+- $0.48 =24 saac free
+- $3.3=7 maalin free
+- $13.5=30 maalin free
+1. Step2 anfac plus data &voice
+- $0.5=1.5GB 70 daqiiqp
+- 0.97=3GB 140 daqiiqo
+- $4.96=12GB & 500 daqiiqo
+- $9.5=28GB 1000 saqiiqo
+1. Step3hormud ADSL PLUS
+- $18=30 maalin atudent free
+- $23=internet + TV 30 malin
+- $27 30 maalin interner data
+1. Step4 anfac
+- $1=100daqiiqo
+- $4.5 =750 daqiiqo
+
+**Somnet**
+
+1. Step1 Somnet unlimed
+- $0.48=2 Maalin free
+- $0.97 =2 maalin free
+- $2.5=8 maalin free
+- $8.5=30 maalin free
+1. Step 2 somnet qanciye
+- $0.5=1350 MB
+- $1=2.5GB
+- $2=5.5GB 140 daqiiqo
+- $5=13GB 270 daqiiqo
+- $9.8=30GB 405 daqiiqo
+
+**Somtel**
+
+1. Step1 Somtel internet
+- $0.5=2 GB 100 daqiiqo
+- $1=8GB 160 daqiiqo
+- $2=8 GB
+1. Step2 Somtel unlimited data & voice
+- $0.48=2 maalin free
+- $0.95=2maalin free
+- $2.95=7 maalin free
+- $11=30 maalin free
+1. Step3 voice
+- $1=140 daqiiqo
+- $1.5=7 maalin hadal free
+- $5=30 maalin hadal free
